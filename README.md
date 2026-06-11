@@ -138,7 +138,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-MRK&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-MRK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 </div>
 
 
