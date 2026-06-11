@@ -129,16 +129,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranav-MRK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MRK&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-MRK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-MRK&theme=tokyonight&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-MRK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MRK&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-MRK&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 
